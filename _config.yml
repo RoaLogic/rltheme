@@ -1,0 +1,20 @@
+title: "Roa Logic GH Pages Theme"
+description: "Roa Logic IP Repository"
+license: NC or BSD License
+
+show_downloads: true
+show_license: true
+
+repository: RoaLogic/rltheme
+
+#url: https://roalogic.github.io
+#baseurl: /rltheme
+
+include:
+  - _pages
+
+exclude:
+  - 'Gemfile*'
+  - '*.sublime-project'
+  - '*.sublime-workspace'
+  - 'README.md'
