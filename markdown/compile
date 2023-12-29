@@ -1,0 +1,3 @@
+#!/usr/local/bin/bash
+
+./scripts/create_markdown.sh rltheme_datasheet

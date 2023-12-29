@@ -3,8 +3,6 @@ title: Home Page
 permalink: /
 ---
 
-![Roa Logic Logo][]{: .logohdr}
-
 {% include readme.md %}
 
 ## Pages
@@ -13,6 +11,8 @@ permalink: /
   - [BSD License][]
   - [Non-Commercial License][]
 - [Test Page][]
+- [Datasheet Test][]
+
 
 ## Project Structure
 
@@ -24,3 +24,4 @@ permalink: /
 [BSD License]:            {{site.baseurl}}{% link _pages/license_bsd.md %}
 [Non-Commercial License]: {{site.baseurl}}{% link _pages/license_nc.md %}
 [Test Page]:              {{site.baseurl}}{% link _pages/test.md %}
+[Datasheet Test]:         {{site.baseurl}}{% link rltheme_datasheet.md %}
